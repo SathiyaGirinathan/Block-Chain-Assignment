@@ -1,0 +1,37 @@
+ASSIGNMENT-1
+
+QUESTION-1
+WHAT IS YOUR UNDERSTANDING OF BLOCKCHAIN?
+ANS :Blockchain is decentralized, distributed, immutable ledger technology which records each and every records of transaction of every peer in which each 
+candidate is able to access, verify, and send the transaction to others.
+    
+
+ QUESTION-2
+WHAT IS CORE PROBLEM BLOCKCHAIN TRY TO SOLVE ?
+ANS :blockchain solves many problem in various industries. The main core problem which blockchain solves and give is TRUST which even Internet does not provide.
+Yes, blockchain is immutable and each and eavery transaction which it adds in block is verified by miners and cryptographic algorithms which solves the problem of trust.
+
+QUESTION-3
+WHAT ARE FEW FEATURES OF BLOCKCHAIN WILL GIVE YOU?
+ANS : There are many features and real life use cases of blockchain such as:-
+1.	DECENTRALIZED :-  there is no central authorative domain who controls it, all the peers in network have same access features and it have multiple authorative domains.
+2.	DISTRIBUTED :- blockchain maintains the universal ledger which is distributed across each node in network and they maintain its copy.
+3.	COLLABORATION :- It allow each party to have transaction directly with each-other without having any third-party dependency.
+4.	RELIABILITY :- Blockchain avoids the problem of double spending and accelerate the rate of transactions.
+
+
+QUESTION-4
+WHAT ALL THINGS DOES A BLOCK CONTAIN?
+ANS :Block contain many things like:-
+•	Block header
+•	Hash
+•	Previous block hash
+•	Nonce
+•	Merkle tree root
+•	Timestamp
+
+QUESTION-5
+HOW A VERIFIABILITY OF BLOCKCHAIN HAS BEEN ATTAINED?
+ANS :BLOCKCHAIN verifiability is done with the help of miners and new block is added to blockchain.
+Whenever the new transaction happens in network it goes to miners and miners check its verifiability through the cryptography and by solving the mathematical puzzle and
+whoever solves it first broadcast the transaction to network and transaction is added in blockchain.
